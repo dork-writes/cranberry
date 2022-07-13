@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cranberry/static/css/main.e56a28b7.css",
+    "main.js": "/cranberry/static/js/main.6cbfc132.js",
+    "static/js/787.9aad22de.chunk.js": "/cranberry/static/js/787.9aad22de.chunk.js",
+    "static/media/font.ttf": "/cranberry/static/media/font.3a0917345468c959207a.ttf",
+    "index.html": "/cranberry/index.html",
+    "main.e56a28b7.css.map": "/cranberry/static/css/main.e56a28b7.css.map",
+    "main.6cbfc132.js.map": "/cranberry/static/js/main.6cbfc132.js.map",
+    "787.9aad22de.chunk.js.map": "/cranberry/static/js/787.9aad22de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e56a28b7.css",
+    "static/js/main.6cbfc132.js"
+  ]
+}
